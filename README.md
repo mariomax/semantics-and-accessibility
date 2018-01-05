@@ -1,4 +1,4 @@
-01: Semantics and Accessibility
+Lab: Semantics and Accessibility
 ===
 
 ## Lab Instructions
